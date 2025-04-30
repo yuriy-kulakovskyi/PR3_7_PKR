@@ -1,0 +1,30 @@
+Start testing: Apr 30 04:51 EEST
+----------------------------------------------------------
+1/1 Testing: NodeTest.CreateNode
+1/1 Test: NodeTest.CreateNode
+Command: "/Users/yura_kulakovskyi/Documents/C++/TeamWork/PR3/PR3_7/cmake-build-debug/PR3_7_tests" "--gtest_filter=NodeTest.CreateNode" "--gtest_also_run_disabled_tests"
+Directory: /Users/yura_kulakovskyi/Documents/C++/TeamWork/PR3/PR3_7/cmake-build-debug
+"NodeTest.CreateNode" start time: Apr 30 04:51 EEST
+Output:
+----------------------------------------------------------
+Running main() from /Users/yura_kulakovskyi/Documents/C++/TeamWork/PR3/PR3_7/lib/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = NodeTest.CreateNode
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NodeTest
+[ RUN      ] NodeTest.CreateNode
+[       OK ] NodeTest.CreateNode (0 ms)
+[----------] 1 test from NodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NodeTest.CreateNode" end time: Apr 30 04:51 EEST
+"NodeTest.CreateNode" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 30 04:51 EEST
